@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am cntb on github.
+  * I am tamx (https://keybase.io/tamx) on keybase.
+  * I have a public key ASBCjyWxL-xM8lNRkBXGzbZc_ScLUjjTICE4NNSMEhSFggo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120428f25b12fec4cf253519015c6cdb65cfd270b5238d320213834d48c121485820a",
+      "host": "keybase.io",
+      "kid": "0120428f25b12fec4cf253519015c6cdb65cfd270b5238d320213834d48c121485820a",
+      "uid": "16313eb412d1bfc63697ff45d5f84419",
+      "username": "tamx"
+    },
+    "merkle_root": {
+      "ctime": 1609355839,
+      "hash": "545f966b4d431caa9f773abf0a52887f07d364a35a82906ebce15788a360188ace96d1903ed8b5abe6b5b1d01837ec7f661168bc248548b144e51eed2a7d33cb",
+      "hash_meta": "34f4b3b7a3054c902bfd5c734dab409fb54b3e2ec6900e8cbf51e8b1d2705ee7",
+      "seqno": 18545435
+    },
+    "service": {
+      "entropy": "ax9HflFy8Fq1UuZHdKPpR6OF",
+      "name": "github",
+      "username": "cntb"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1609355901,
+  "expire_in": 504576000,
+  "prev": "7fcff6c28bd53ae1746fe4a4b5b846bc07b40558b82fe7bc5adef8f12d0349a8",
+  "seqno": 4,
+  "tag": "signature"
+}
+```
+
+with the key [ASBCjyWxL-xM8lNRkBXGzbZc_ScLUjjTICE4NNSMEhSFggo](https://keybase.io/tamx), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgQo8lsS/sTPJTUZAVxs22XP0nC1I40yAhODTUjBIUhYIKp3BheWxvYWTESpcCBMQgf8/2wovVOuF0b+SktbhGvAe0BVi4L+e8Wt748S0DSajEIDumoYn1PDh4O5Rkk823Wc8bZXH8DOb61HeXZ0mFQuRUAgHCo3NpZ8RAockeJlhS+B3IjvcowtGb869L1EZfEgt5uCW/e7VCjtQfSuAK6ebY4lhT+cTxcYJgGENyXNHiT+Cb+7l6A2ooDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHJEhJPnWl/XEl0vMmesFGoX+QY26JkFDOcGk0gwSVCeo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/tamx
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id tamx
+```
